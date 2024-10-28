@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Safa Taşkın!
 
 ![Header Image](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+Profile)
 
@@ -20,10 +20,12 @@
 
 | Languages       | Libraries/Frameworks   | Tools                |
 |-----------------|------------------------|----------------------|
-| Python          | NumPy                  | Git                  |
+| Python          | OpenCV                 | VisualStudio Code    |
 | HTML/CSS        | Pandas                 | GitHub               |
-| JavaScript      | Matplotlib             | VS Code              |
-|                 | OpenCV                 | Jupyter Notebooks     |
+| JavaScript      | Matplotlib             | Jupyter Notebooks    |
+|                 | NumPy                  |                      |
+|                 | PyQt6                  |                      |
+
 
 ---
 
@@ -39,6 +41,7 @@
 
 ### 🌱 I’m Currently Learning
 
+- 🖥️ Image Processing
 - 📈 Data Science Fundamentals
 - 📊 Machine Learning Basics
 - 🖥️ Advanced Python Techniques
@@ -58,5 +61,6 @@
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+you+for+visiting+my+profile!)
+![Footer Banner](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile!&bg=00BFFF&color=FFFFFF&font=Arial&fontsize=24&bold=true)
+
 
