@@ -47,15 +47,13 @@
 
 ### 🤝 Let's Connect!
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/safa-taskin/))
+- [Email](mailto:safataskin458@gmail.com)
 
 ---
 
 ### 💬 Fun Facts
 
-- 🎨 In my free time, I enjoy digital art and photography.
 - 🎮 I love gaming and exploring new technologies.
 
 ---
