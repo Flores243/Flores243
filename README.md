@@ -50,7 +50,7 @@
 
 ### 🤝 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/safa-taskin/)
+- [LinkedIn](https://www.linkedin.com/in/safa-taskin/)
 - [Email](mailto:safataskin458@gmail.com)
 
 ---
