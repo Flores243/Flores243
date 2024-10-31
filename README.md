@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Safa Taşkın!
 
-![Header Image](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+Profile)
-
 ### 🚀 Junior Python Developer & Data Enthusiast
 
 ---
