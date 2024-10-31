@@ -26,17 +26,6 @@
 |                 | NumPy                  |                      |
 |                 | PyQt6                  |                      |
 
-
----
-
-### 🚧 Current Projects
-
-- **[Project Name 1](link-to-your-project)**  
-  *Brief description of what the project does and what technologies you used.*
-
-- **[Project Name 2](link-to-your-project)**  
-  *Brief description of what the project does and what technologies you used.*
-
 ---
 
 ### 🌱 I’m Currently Learning
